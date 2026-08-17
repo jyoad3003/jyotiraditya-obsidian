@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "github"
             }
+          },
+          {
+            "id": "c59d1f7c080e75e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "github"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,8 +216,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb1938666b0ac71a",
+  "active": "c59d1f7c080e75e9",
   "lastOpenFiles": [
+    "jyotiraditya.md",
+    "github.md",
     "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",
@@ -235,7 +252,6 @@
     "Linear Algebra(Coursera)/Week 1.md",
     "Roadmap for Learning Data Science.md",
     "2025-11-06.md",
-    "github.md",
     "[2025-11-06.md",
     "Logistic Regression.md",
     "Untitled 5.canvas",
@@ -244,7 +260,6 @@
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "'''dataview LIST''.md",
     "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250211160117.png",
     "Agile Canvas.canvas",
     "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250304162324.png",
