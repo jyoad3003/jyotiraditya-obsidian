@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "043119e3f47e9cdf",
+        "id": "1fbd7ac234c0ca87",
         "type": "tabs",
         "children": [
           {
-            "id": "ca9196b3f29a3d89",
+            "id": "7af16cbbe27bbebf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/00 - Maps of Content/Machine Learning MOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Machine Learning MOC"
+              "type": "start-page-view",
+              "state": {},
+              "icon": "home",
+              "title": "Start page"
             }
           }
         ]
@@ -201,8 +197,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca9196b3f29a3d89",
+  "active": "7af16cbbe27bbebf",
   "lastOpenFiles": [
+    "Templates/Cheat Sheet & Quick Reference Template.md",
+    "Templates/Code Snippet & Utility Template.md",
+    "Templates/Meeting & Lecture Template.md",
+    "Templates/Literature & Research Paper Template.md",
+    "Templates/Book Note Template.md",
+    "Templates/Area & Domain Template.md",
+    "Templates/Project Template.md",
+    "Templates/Atomic Note Template.md",
+    "Templates/MOC Template.md",
+    "Templates/Weekly Review Template.md",
+    "Templates/Daily Note Template.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Machine Learning/04 - Unsupervised Learning/t-SNE & UMAP.md",
+    "Machine Learning/01 - Foundations/Linear Algebra for ML.md",
+    "Machine Learning/00 - Maps of Content/Machine Learning MOC.md",
     "Machine Learning/06 - Practical ML & Workflows/Hyperparameter Tuning.md",
     "Machine Learning/06 - Practical ML & Workflows/Data Leakage & How to Avoid It.md",
     "Machine Learning/06 - Practical ML & Workflows/End-to-End ML Project Checklist.md",
@@ -215,24 +227,10 @@
     "Machine Learning/05 - Deep Learning/Perceptrons & Multi-Layer Perceptrons.md",
     "Machine Learning/05 - Deep Learning",
     "Machine Learning/04 - Unsupervised Learning/Anomaly Detection Techniques.md",
-    "Machine Learning/04 - Unsupervised Learning/t-SNE & UMAP.md",
     "Machine Learning/04 - Unsupervised Learning/Principal Component Analysis (PCA).md",
     "Machine Learning/04 - Unsupervised Learning/DBSCAN.md",
-    "Machine Learning/04 - Unsupervised Learning/Hierarchical Clustering.md",
-    "Machine Learning/04 - Unsupervised Learning/K-Means & K-Means++.md",
     "Machine Learning/04 - Unsupervised Learning",
-    "Machine Learning/03 - Supervised Learning/Naive Bayes.md",
-    "Machine Learning/03 - Supervised Learning/k-Nearest Neighbors (KNN).md",
-    "Machine Learning/03 - Supervised Learning/Support Vector Machines (SVM).md",
-    "Prompts/Gemini Prompts.md",
-    "Machine Learning/03 - Supervised Learning/Gradient Boosting & XGBoost.md",
-    "Machine Learning/03 - Supervised Learning/Random Forests.md",
-    "Machine Learning/03 - Supervised Learning/Decision Trees.md",
-    "Machine Learning/03 - Supervised Learning/Logistic Regression.md",
-    "Machine Learning/03 - Supervised Learning/Linear Regression.md",
     "Machine Learning/03 - Supervised Learning",
-    "Machine Learning/02 - Core Concepts/Feature Engineering & Scaling.md",
-    "Machine Learning/02 - Core Concepts/Cross-Validation & Data Splits.md",
     "Prompts",
     "Machine Learning/02 - Core Concepts",
     "Templates/Prompts",
@@ -241,10 +239,8 @@
     "Machine Learning",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
-    "Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
     "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250211160117.png",
     "Agile Canvas.canvas",
     "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250304162324.png",
