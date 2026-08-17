@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "709daa8e65839e86",
+        "id": "043119e3f47e9cdf",
         "type": "tabs",
         "children": [
           {
-            "id": "a57e6f2133b042e4",
+            "id": "ca9196b3f29a3d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github.md",
+                "file": "Machine Learning/00 - Maps of Content/Machine Learning MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github"
-            }
-          },
-          {
-            "id": "c59d1f7c080e75e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "github.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "github"
+              "title": "Machine Learning MOC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,44 +201,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c59d1f7c080e75e9",
+  "active": "ca9196b3f29a3d89",
   "lastOpenFiles": [
-    "jyotiraditya.md",
-    "github.md",
-    "copilot/skills/obsidian-cli/SKILL.md",
-    "copilot/skills/obsidian-cli/LICENSE",
-    "copilot/skills/obsidian-cli",
-    "copilot/skills/json-canvas/SKILL.md",
-    "copilot/skills/json-canvas/LICENSE",
-    "copilot/skills/json-canvas/references/EXAMPLES.md",
-    "copilot/skills/json-canvas/references",
-    "copilot/skills/json-canvas",
-    "copilot/skills/obsidian-bases/SKILL.md",
-    "copilot/skills/obsidian-bases/LICENSE",
-    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
-    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-bases/references",
-    "copilot/skills/obsidian-bases",
-    "copilot/skills/obsidian-markdown/SKILL.md",
-    "copilot/skills/obsidian-markdown/LICENSE",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
-    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
-    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
-    "copilot/skills/obsidian-markdown/references",
-    "copilot/skills/symposium-publish/SKILL.md",
-    "copilot/skills/copilot-fetch-x/SKILL.md",
-    "copilot/skills/copilot-youtube-transcript/SKILL.md",
-    "copilot/skills/copilot-read-pdf/SKILL.md",
-    "copilot/skills/copilot-web-fetch/SKILL.md",
-    "copilot/skills/copilot-web-search/SKILL.md",
-    "Traditional Programming VS Machine Learning.md",
-    "Templates/Algorithm Template.md",
-    "Linear Algebra(Coursera)/Week 2.md",
-    "Linear Algebra(Coursera)/Week 1.md",
-    "Roadmap for Learning Data Science.md",
-    "2025-11-06.md",
-    "[2025-11-06.md",
-    "Logistic Regression.md",
+    "Machine Learning/06 - Practical ML & Workflows/Hyperparameter Tuning.md",
+    "Machine Learning/06 - Practical ML & Workflows/Data Leakage & How to Avoid It.md",
+    "Machine Learning/06 - Practical ML & Workflows/End-to-End ML Project Checklist.md",
+    "Machine Learning/06 - Practical ML & Workflows",
+    "Machine Learning/05 - Deep Learning/Transformers & Attention.md",
+    "Machine Learning/05 - Deep Learning/Recurrent Neural Networks & LSTM.md",
+    "Machine Learning/05 - Deep Learning/Convolutional Neural Networks (CNN).md",
+    "Machine Learning/05 - Deep Learning/Activation Functions.md",
+    "Machine Learning/05 - Deep Learning/Backpropagation & Computation Graphs.md",
+    "Machine Learning/05 - Deep Learning/Perceptrons & Multi-Layer Perceptrons.md",
+    "Machine Learning/05 - Deep Learning",
+    "Machine Learning/04 - Unsupervised Learning/Anomaly Detection Techniques.md",
+    "Machine Learning/04 - Unsupervised Learning/t-SNE & UMAP.md",
+    "Machine Learning/04 - Unsupervised Learning/Principal Component Analysis (PCA).md",
+    "Machine Learning/04 - Unsupervised Learning/DBSCAN.md",
+    "Machine Learning/04 - Unsupervised Learning/Hierarchical Clustering.md",
+    "Machine Learning/04 - Unsupervised Learning/K-Means & K-Means++.md",
+    "Machine Learning/04 - Unsupervised Learning",
+    "Machine Learning/03 - Supervised Learning/Naive Bayes.md",
+    "Machine Learning/03 - Supervised Learning/k-Nearest Neighbors (KNN).md",
+    "Machine Learning/03 - Supervised Learning/Support Vector Machines (SVM).md",
+    "Prompts/Gemini Prompts.md",
+    "Machine Learning/03 - Supervised Learning/Gradient Boosting & XGBoost.md",
+    "Machine Learning/03 - Supervised Learning/Random Forests.md",
+    "Machine Learning/03 - Supervised Learning/Decision Trees.md",
+    "Machine Learning/03 - Supervised Learning/Logistic Regression.md",
+    "Machine Learning/03 - Supervised Learning/Linear Regression.md",
+    "Machine Learning/03 - Supervised Learning",
+    "Machine Learning/02 - Core Concepts/Feature Engineering & Scaling.md",
+    "Machine Learning/02 - Core Concepts/Cross-Validation & Data Splits.md",
+    "Prompts",
+    "Machine Learning/02 - Core Concepts",
+    "Templates/Prompts",
+    "Machine Learning/01 - Foundations",
+    "Machine Learning/00 - Maps of Content",
+    "Machine Learning",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled.canvas",
