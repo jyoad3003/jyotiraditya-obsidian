@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "8c8b921130da29c3",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "76d3ecf203fff451",
+        "id": "709daa8e65839e86",
         "type": "tabs",
         "children": [
           {
-            "id": "9c4a0aef606a39e5",
+            "id": "a57e6f2133b042e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traditional Programming VS Machine Learning.md",
+                "file": "github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traditional Programming VS Machine Learning"
+              "title": "github"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -147,79 +149,112 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "4ef9c02c5fd8ae81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "74ed2076318be981",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Agent Chat": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-importer:Import notes": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "start-page:Open start page": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9c4a0aef606a39e5",
+  "active": "eb1938666b0ac71a",
   "lastOpenFiles": [
+    "copilot/skills/obsidian-cli/SKILL.md",
+    "copilot/skills/obsidian-cli/LICENSE",
+    "copilot/skills/obsidian-cli",
+    "copilot/skills/json-canvas/SKILL.md",
+    "copilot/skills/json-canvas/LICENSE",
+    "copilot/skills/json-canvas/references/EXAMPLES.md",
+    "copilot/skills/json-canvas/references",
+    "copilot/skills/json-canvas",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/LICENSE",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-bases/references",
+    "copilot/skills/obsidian-bases",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/LICENSE",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "copilot/skills/obsidian-markdown/references",
+    "copilot/skills/symposium-publish/SKILL.md",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
+    "copilot/skills/copilot-read-pdf/SKILL.md",
+    "copilot/skills/copilot-web-fetch/SKILL.md",
+    "copilot/skills/copilot-web-search/SKILL.md",
+    "Traditional Programming VS Machine Learning.md",
     "Templates/Algorithm Template.md",
     "Linear Algebra(Coursera)/Week 2.md",
     "Linear Algebra(Coursera)/Week 1.md",
     "Roadmap for Learning Data Science.md",
-    "Traditional Programming VS Machine Learning.md",
     "2025-11-06.md",
-    "Untitled.md",
+    "github.md",
     "[2025-11-06.md",
     "Logistic Regression.md",
-    "Untitled 2.base",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
-    "Untitled 1.base",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Untitled.base",
     "Untitled 1.canvas",
     "'''dataview LIST''.md",
-    "Dtatview.md",
-    "2025-07-05.md",
-    "Templates/Untitled.md",
-    "Templates/Untitled",
     "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250211160117.png",
-    "Templates",
-    "Linear Algebra(Coursera)",
-    "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Lecture 1.md",
-    "Agile Lecture Notes/Lecture 3/Continuous Integration.md",
     "Agile Canvas.canvas",
-    "KDDM 1.md",
-    "Agile Lecture Notes/Lecture 3/Today's Topics/Lecture 3.md",
-    "Agile Lecture Notes/Lecture 1/Software development method comparison/Iterative Sequential Methods.md",
     "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250304162324.png",
     "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250304161623.png",
-    "Agile Lecture Notes/Lecture 1/Software development method comparison/Sequential SDLC Methods (Waterfall Model).md",
-    "Agile Lecture Notes/Lecture 1/Software development method comparison/Software Development Life Cycle (SDLC).md",
-    "Agile Lecture Notes/Lecture 2/Scrum/Scrum.md",
     "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250211160101.png",
     "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250211161032.png",
     "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250211161408.png",
-    "Agile Lecture Notes/Lecture 3/Today's Topics",
-    "Agile Lecture Notes/Lecture 1/Images and Today's Topic",
-    "Agile Lecture Notes/Lecture 2/Testing/Testing.md",
-    "Agile Lecture Notes/Lecture 2/Testing",
-    "Agile Lecture Notes/Lecture 2/Scrum",
     "Agile Lecture Notes/Lecture 1/Pasted image 20250211155715.png",
     "Pasted image 20250211160552.png",
     "Pasted image 20250211160521.png",
-    "Pasted image 20250211160340.png",
-    "2025-02-03.md",
-    "2025-01-28.md",
-    "Lecture-1.md"
+    "Pasted image 20250211160340.png"
   ]
 }

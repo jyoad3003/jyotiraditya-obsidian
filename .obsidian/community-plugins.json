@@ -5,5 +5,19 @@
   "remotely-save",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "editing-toolbar",
+  "copilot",
+  "realclaudian",
+  "calendar",
+  "obsidian-book-search-plugin",
+  "obsidian-icon-folder",
+  "obsidian-importer",
+  "obsidian-kanban",
+  "obsidian-minimal-settings",
+  "omnisearch",
+  "start-page",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin",
+  "templater-obsidian"
 ]
