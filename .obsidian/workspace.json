@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "8c8b921130da29c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "76d3ecf203fff451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c4a0aef606a39e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traditional Programming VS Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Traditional Programming VS Machine Learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64af2d89099d55f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cccd9bd28ba9232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb1938666b0ac71a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "095c738ab788c0ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8dd9d568812e7494",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f6cd9ddd935c2db",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5321bd35a6b215b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93d8a543dc718b38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7d52a0f96542ab79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0c59495cf5098727",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "22b4a81f1603445f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9c4a0aef606a39e5",
+  "lastOpenFiles": [
+    "Templates/Algorithm Template.md",
+    "Linear Algebra(Coursera)/Week 2.md",
+    "Linear Algebra(Coursera)/Week 1.md",
+    "Roadmap for Learning Data Science.md",
+    "Traditional Programming VS Machine Learning.md",
+    "2025-11-06.md",
+    "Untitled.md",
+    "[2025-11-06.md",
+    "Logistic Regression.md",
+    "Untitled 2.base",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "'''dataview LIST''.md",
+    "Dtatview.md",
+    "2025-07-05.md",
+    "Templates/Untitled.md",
+    "Templates/Untitled",
+    "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250211160117.png",
+    "Templates",
+    "Linear Algebra(Coursera)",
+    "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Lecture 1.md",
+    "Agile Lecture Notes/Lecture 3/Continuous Integration.md",
+    "Agile Canvas.canvas",
+    "KDDM 1.md",
+    "Agile Lecture Notes/Lecture 3/Today's Topics/Lecture 3.md",
+    "Agile Lecture Notes/Lecture 1/Software development method comparison/Iterative Sequential Methods.md",
+    "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250304162324.png",
+    "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250304161623.png",
+    "Agile Lecture Notes/Lecture 1/Software development method comparison/Sequential SDLC Methods (Waterfall Model).md",
+    "Agile Lecture Notes/Lecture 1/Software development method comparison/Software Development Life Cycle (SDLC).md",
+    "Agile Lecture Notes/Lecture 2/Scrum/Scrum.md",
+    "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250211160101.png",
+    "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250211161032.png",
+    "Agile Lecture Notes/Lecture 1/Images and Today's Topic/Pasted image 20250211161408.png",
+    "Agile Lecture Notes/Lecture 3/Today's Topics",
+    "Agile Lecture Notes/Lecture 1/Images and Today's Topic",
+    "Agile Lecture Notes/Lecture 2/Testing/Testing.md",
+    "Agile Lecture Notes/Lecture 2/Testing",
+    "Agile Lecture Notes/Lecture 2/Scrum",
+    "Agile Lecture Notes/Lecture 1/Pasted image 20250211155715.png",
+    "Pasted image 20250211160552.png",
+    "Pasted image 20250211160521.png",
+    "Pasted image 20250211160340.png",
+    "2025-02-03.md",
+    "2025-01-28.md",
+    "Lecture-1.md"
+  ]
+}
