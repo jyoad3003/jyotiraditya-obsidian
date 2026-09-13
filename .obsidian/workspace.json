@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap for Learning Data Science.md",
+                "file": "copilot/skills/copilot-read-pdf/SKILL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap for Learning Data Science"
+              "title": "SKILL"
             }
           }
         ]
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap for Learning Data Science.md",
+                "file": "copilot/skills/copilot-read-pdf/SKILL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,8 +202,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "eb1938666b0ac71a",
   "lastOpenFiles": [
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "Roadmap for Learning Data Science.md",
     "Logistic Regression.md",
     "Machine Learning/03 - Supervised Learning/Logistic Regression.md",
     "2025-11-06.md",
@@ -231,8 +233,6 @@
     "Templates/Daily Note Template.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Machine Learning/04 - Unsupervised Learning/t-SNE & UMAP.md",
-    "Machine Learning/01 - Foundations/Linear Algebra for ML.md",
     "Machine Learning/06 - Practical ML & Workflows",
     "Machine Learning/05 - Deep Learning",
     "Machine Learning/04 - Unsupervised Learning",
