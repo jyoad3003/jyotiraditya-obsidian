@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "start-page-view",
-              "state": {},
-              "icon": "home",
-              "title": "Start page"
+              "type": "markdown",
+              "state": {
+                "file": "Logistic Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logistic Regression"
             }
           }
         ]
@@ -138,6 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Logistic Regression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -197,8 +202,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "74ed2076318be981",
   "lastOpenFiles": [
+    "Machine Learning/03 - Supervised Learning/Logistic Regression.md",
+    "Logistic Regression.md",
+    "2025-11-06.md",
+    "jyotiraditya.md",
+    "[2025-11-06.md",
+    "github.md",
+    "Traditional Programming VS Machine Learning.md",
     "Untitled.md",
     "Untitled",
     "Machine Learning/00 - Maps of Content/Supervised Learning MOC.md",
@@ -221,14 +233,7 @@
     "Untitled.canvas",
     "Machine Learning/04 - Unsupervised Learning/t-SNE & UMAP.md",
     "Machine Learning/01 - Foundations/Linear Algebra for ML.md",
-    "Machine Learning/06 - Practical ML & Workflows/Hyperparameter Tuning.md",
-    "Machine Learning/06 - Practical ML & Workflows/Data Leakage & How to Avoid It.md",
-    "Machine Learning/06 - Practical ML & Workflows/End-to-End ML Project Checklist.md",
     "Machine Learning/06 - Practical ML & Workflows",
-    "Machine Learning/05 - Deep Learning/Transformers & Attention.md",
-    "Machine Learning/05 - Deep Learning/Recurrent Neural Networks & LSTM.md",
-    "Machine Learning/05 - Deep Learning/Convolutional Neural Networks (CNN).md",
-    "Machine Learning/05 - Deep Learning/Activation Functions.md",
     "Machine Learning/05 - Deep Learning",
     "Machine Learning/04 - Unsupervised Learning",
     "Machine Learning/03 - Supervised Learning",
