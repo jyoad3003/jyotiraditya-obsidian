@@ -11,10 +11,14 @@
             "id": "e6c94d8271b59aed",
             "type": "leaf",
             "state": {
-              "type": "start-page-view",
-              "state": {},
-              "icon": "home",
-              "title": "Start page"
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/00 - Maps of Content/Deep Learning MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deep Learning MOC"
             }
           }
         ]
@@ -138,6 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Machine Learning/00 - Maps of Content/Deep Learning MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,9 +204,9 @@
   },
   "active": "e6c94d8271b59aed",
   "lastOpenFiles": [
+    "Machine Learning/00 - Maps of Content/Machine Learning MOC.md",
     "Linear Algebra(Coursera)/Week 2.md",
     "Linear Algebra(Coursera)/Week 1.md",
-    "Machine Learning/00 - Maps of Content/Machine Learning MOC.md",
     "Roadmap for Learning Data Science.md",
     "copilot/skills/copilot-youtube-transcript/SKILL.md",
     "copilot/skills/obsidian-bases/SKILL.md",
