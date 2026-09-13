@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logistic Regression.md",
+                "file": "Roadmap for Learning Data Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logistic Regression"
+              "title": "Roadmap for Learning Data Science"
             }
           }
         ]
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logistic Regression.md",
+                "file": "Roadmap for Learning Data Science.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,10 +202,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74ed2076318be981",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Machine Learning/03 - Supervised Learning/Logistic Regression.md",
     "Logistic Regression.md",
+    "Machine Learning/03 - Supervised Learning/Logistic Regression.md",
     "2025-11-06.md",
     "jyotiraditya.md",
     "[2025-11-06.md",
