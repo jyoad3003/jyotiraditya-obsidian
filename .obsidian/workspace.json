@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/00 - Maps of Content/Machine Learning MOC.md",
+                "file": "Machine Learning/01 - Foundations/Probability & Statistics for ML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine Learning MOC"
+              "title": "Probability & Statistics for ML"
             }
           }
         ]
@@ -204,8 +204,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Machine Learning/00 - Maps of Content/Deep Learning MOC.md",
+    "Machine Learning/01 - Foundations/Linear Algebra for ML.md",
+    "Traditional Programming VS Machine Learning.md",
     "Machine Learning/00 - Maps of Content/Machine Learning MOC.md",
+    "Machine Learning/00 - Maps of Content/Supervised Learning MOC.md",
+    "Machine Learning/01 - Foundations/Probability & Statistics for ML.md",
+    "Machine Learning/01 - Foundations/Multivariate Calculus & Gradients.md",
+    "Machine Learning/00 - Maps of Content/Deep Learning MOC.md",
     "Linear Algebra(Coursera)/Week 2.md",
     "Linear Algebra(Coursera)/Week 1.md",
     "Roadmap for Learning Data Science.md",
@@ -219,18 +224,13 @@
     "jyotiraditya.md",
     "[2025-11-06.md",
     "github.md",
-    "Traditional Programming VS Machine Learning.md",
     "Untitled.md",
     "Untitled",
-    "Machine Learning/00 - Maps of Content/Supervised Learning MOC.md",
     "Machine Learning/03 - Supervised Learning/Linear Regression.md",
     "Machine Learning/00 - Maps of Content/Unsupervised Learning MOC.md",
     "Templates/Cheat Sheet & Quick Reference Template.md",
     "Templates/Code Snippet & Utility Template.md",
     "Templates/Meeting & Lecture Template.md",
-    "Templates/Literature & Research Paper Template.md",
-    "Templates/Book Note Template.md",
-    "Templates/Area & Domain Template.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Machine Learning/06 - Practical ML & Workflows",
